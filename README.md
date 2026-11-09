@@ -46,6 +46,11 @@ online transactions and potential fraud.
 **3. E-commerce Website**
 A web development project focused on
 online shopping and product presentation.
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shriaditya007&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shriaditya007&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 📫 Connect With Me
 
