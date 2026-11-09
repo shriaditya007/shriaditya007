@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Aditya Shrivastava 👋
 
-<!--
-**shriaditya007/shriaditya007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science and Engineering student
+at GLA University, interested in Data Analytics,
+software development, and solving real-world
+problems through technology.
+
+### 👨‍💻 About Me
+
+- 🎓 Pursuing B.Tech in Computer Science
+- 🏫 GLA University, Mathura
+- 📊 Interested in Data Analytics & Visualization
+- 🌱 Continuously learning new technologies
+- 💡 Interested in building practical projects
+- 🤝 Open to learning and collaboration
+
+### 🛠️ Technical Skills
+
+- **Languages:** Python, Java, SQL
+- **Data Analytics:** Tableau, Excel
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Projects
+
+**1. HealHub**
+AI-powered mental wellness platform
+designed to support students and professionals.
+
+**2. Fraud Detection in Online Transactions**
+A project focused on identifying suspicious
+online transactions and potential fraud.
+
+**3. E-commerce Website**
+A web development project focused on
+online shopping and product presentation.
+
+### 📫 Connect With Me
+
+- LinkedIn:
+  https://www.linkedin.com/in/aditya-shrivastava-44b415378/
+
+- GitHub:
+  https://github.com/shriaditya007
+
+- Email:
+  aditya.shrivastava_cs24@gla.ac.in
+
+---
+
+⭐ Thanks for visiting my profile!
